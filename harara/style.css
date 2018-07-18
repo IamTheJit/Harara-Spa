@@ -1,0 +1,289 @@
+body {
+    background-color: #ececec;
+
+}
+
+.carousel-inner h3 {
+    font-family: georgia;
+}
+
+.social {
+    font-size: 28px;
+    color: #106044;
+}
+
+
+.social a:hover {
+    color: cadetblue;
+}
+
+.logo {
+    height: 75px;
+    width: 200px;
+}
+
+.nav-color {
+    background-color: #106044;
+}
+
+.navigation ul li a {
+    color: white;
+}
+
+.navigation ul li:hover {
+    background-color: cadetblue;
+    transition: 1s ease;
+}
+
+.size {
+    width: 1110px;
+    height: 503px;
+}
+
+
+.welcome-to-site {
+    font-family: 'Tangerine', serif;
+    font-size: 58px;
+    font-weight: 600;
+    color: #106044;
+}
+
+
+section h3 {
+    font-family: arial;
+}
+
+
+.color {
+    color: #95A5A6;
+    font-size: 1.5em;
+    font-family: 'Lato', sans-serif;
+}
+
+
+
+.sub-font {
+    font-family: 'Tangerine', serif;
+    font-weight: bold;
+    color: #106044;
+}
+
+h3 span {
+    color: #95A5A6;
+    font-size: 1em;
+    font-family: 'Lato', sans-serif;
+}
+
+
+.small-pic {
+    width: 300px;
+    height: 250px;
+}
+
+
+.image-links img {
+    border: 6px solid white;
+}
+
+.image-info {
+    background-color: #ffffff;
+    margin-top: -50px;
+}
+
+
+.sub-size {
+    height: 402px;
+    width: 342px;
+}
+
+
+.image-info a:hover {
+    background-color: cadetblue;
+}
+
+
+.table {
+    border: 2px solid #106044;
+}
+
+
+.table-head {
+    background-color: #106044;
+}
+
+tr {
+    border: 2px solid #106044;
+}
+
+td {
+    border: 2px solid #106044;
+}
+
+.font-ariel {
+    font-family: 'Tangerine', serif;
+    font-size: 58px;
+    font-weight: 600;
+    color: #106044;
+}
+
+.products .card a {
+    color: #000;
+}
+
+.products .card a:hover {
+    text-decoration: none;
+}
+
+
+.products .card h3 {
+    font-size: 1.3rem;
+    color: #106044;
+}
+
+
+.products .card p {
+    font-size: .8rem;
+}
+
+
+.products .card p.price {
+    font-size: 1.5rem;
+    color: #979797;
+}
+
+
+.products .card {
+    border: none;
+}
+
+.appoinment {
+    background-image: url(img/bg_appointment.jpg);
+    background-repeat: no-repeat background-position: center center;
+    background-attachment: fixed;
+    color: white;
+    background-size: cover;
+}
+
+.appoinment h3 {
+    font-size: 3.5rem;
+    line-height: 4rem,
+}
+
+.appoinment p {
+    line-height: 2.6rem;
+}
+
+
+.ft-font {
+    font-family: 'Lato', sans-serif;
+}
+
+
+.nav-link {
+    font-size: 1.1em;
+    font-family: 'Lato', sans-serif;
+}
+
+.thumb-size {
+    height: 238px;
+}
+
+
+.font {
+    font-size: 1.1em;
+    font-family: 'Lato', sans-serif;
+}
+
+
+.bg-color {
+    background-color: white;
+
+}
+
+
+.height-img {
+    height: 170px;
+}
+
+
+
+.hero{
+    position: relative;
+
+}
+
+
+.abc{
+    background-color:  #106044;
+    position: absolute;
+    bottom: 1rem;
+    font-family: 'Lato', sans-serif;
+    font-size: 2rem;
+    width: px;
+}
+
+
+
+#services .card-header{
+    background-color:  #106044;
+ 
+}
+
+
+#services .card-header h3 a{
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.6rem;
+    
+}
+
+aside.discount{
+    background-color: darkgray;
+    color: white;
+    background-clip: content-box;
+}
+
+
+aside.discount .coupon{
+    border: 2px dashed white;
+}
+
+aside.discount .coupon p{
+    font-family: 'Lato', sans-serif;
+    font-size: 1.6rem;
+}
+
+
+aside.discount .coupon p span{
+    display: block;
+}
+
+
+#services .card-block{
+    font-size: 1.2rem;
+    line-height: 2rem;
+}
+
+
+
+
+
+
+.contact-form{
+    border: 2px solid #9a9a9a;
+    background-color: white;
+}
+
+.contact-form .btn-primary{
+    background-color: #106044;
+    border: none;
+    border-radius: 0px;
+    padding: 1rem  5rem;
+}
+
+
+
+.contact-form .btn-primary:hover{
+    background-color: #9a9a9a;
+    transition: 1s ease;
+}
